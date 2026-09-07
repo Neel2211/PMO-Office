@@ -1,0 +1,6 @@
+PMO Office Project Plan
+
+1. Review inventory every Monday.
+2. Update stock quantities after every issue.
+3. Maintain records of available equipment.
+4. Prepare monthly inventory reports.
